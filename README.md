@@ -1,5 +1,6 @@
-# Chris Aston
-# Learning Journey
+# Chris Aston - Learning Journey
+ 
+
 
 ## Long term goals
 
@@ -35,6 +36,10 @@
 - I make time to enjoy my hobbies.
 - I get enough sleep.
 
+
+
+## Weekly goals
+[Week 1](https://github.com/AUTOMCAS/LearningJourney/blob/main/Week1.md)
 
 ## Daily checks - did I do this today?
 - Recall before looking a solution up.
