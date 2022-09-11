@@ -1,6 +1,7 @@
+# Chris Aston
 # Learning Journey
 
-### Long term goals
+## Long term goals
 
 #### Learning 
 - I have well developed and effective learning strategies.
@@ -35,7 +36,7 @@
 - I get enough sleep.
 
 
-### Daily checks - did I do this today?
+## Daily checks - did I do this today?
 - Recall before looking a solution up.
 - Create questions to recall later and to explore deeper learning.
 - Reflect on learning.
@@ -43,5 +44,5 @@
 - Take appropriate breaks.
 
 
-### Blog
+## Blog
 Recording learning strategies and reflection in blog
