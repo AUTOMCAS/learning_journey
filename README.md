@@ -1,5 +1,9 @@
 # Chris Aston - Learning Journey
  
+ 
+ 
+## Blog
+Recording learning strategies and reflection in blog -link
 
 
 ## Long term goals
@@ -47,7 +51,3 @@
 - Reflect on learning.
 - Sit properly.
 - Take appropriate breaks.
-
-
-## Blog
-Recording learning strategies and reflection in blog
