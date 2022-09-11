@@ -9,12 +9,15 @@
 
 
 
+
+
 ### Goal 1: Get to Makers site OK and get an understanding of the coming weeks.
 ##### PLAN
 Attend on site and fully immerse self.
 ##### EVIDENCE
 
 ##### REFLECTION
+
 
 
 ### Goal 2: Convert blog notes to real blog.
@@ -24,6 +27,7 @@ Attend on site and fully immerse self.
 ##### EVIDENCE
 Blog
 ##### REFLECTION
+
 
 
 ### Goal 3: Test learning strategies against reality
