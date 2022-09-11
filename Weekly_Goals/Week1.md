@@ -3,11 +3,8 @@
 
 ### Goals
 
-**1. Get to Makers site OK and get an understanding of the coming weeks.**
-
-**2. Convert blog notes to real blog.**
-
-**3. Test learning strategies against reality.**
+1. Get to Makers site OK and get an understanding of the coming weeks.
+2. Test learning strategies against reality.
 
 &nbsp;
 
@@ -16,26 +13,16 @@
 Attend on site and fully immerse self.
 ##### EVIDENCE
 
-##### REFLECTION
+##### REFLECTION AND FEEDBACK
 
 &nbsp;
 
-#### Goal 2: Convert blog notes to real blog.
-##### PLAN
-- Explore Medium for blog use.
-- Transfer diagrams and notes to blog
-##### EVIDENCE
-Blog
-##### REFLECTION
-
-&nbsp;
-
-#### Goal 3: Test learning strategies against reality.
+#### Goal 2: Test learning strategies against reality.
 ##### PLAN
 - Continue with strategies that have worked in the pre-course and reflect on effectiveness.
 ##### EVIDENCE
 
-##### REFLECTION
+##### REFLECTION AND FEEDBACK
 
 &nbsp;
 
