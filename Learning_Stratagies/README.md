@@ -1,5 +1,4 @@
 ## Learning Strategies
----
 
 ## Learning how to learn
 
@@ -17,22 +16,9 @@ I created a number of resources in which I outlined various key concepts of effe
 - Understand foundational principles and key concepts. These can be applied to larger scope.
 - Celebrate challenges. Hard means you are learning!
 
-Since starting the course I have continued to apply these strategies to Software Development, reflecting and developing my personal learning strategies. 
+Since starting the course I have continued to develop and apply these strategies to Software Development, reflecting and improving my personal learning strategies. This repository is a continuation of this development.
 
-&nbsp;
-
-----
-
-### The purpose of this repository
+**Included in this repository:**
 - Recording my development and implementation of various learning strategies.
 - Reflection of what went well.
 - Planning what to improve on.
-
-&nbsp;
-
-----
-### Definitions:
-- Recall
-- Learning objectives
-- Pomadoro
-- Testing
