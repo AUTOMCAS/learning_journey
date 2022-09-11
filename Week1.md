@@ -9,7 +9,6 @@
 
 
 ### Goal 1: Get to Makers site OK and get an understanding of the coming weeks.
-**PLAN**
+##### PLAN
 Attend on site and fully immerse self.
-
-**EVIDENCE**
+##### EVIDENCE
