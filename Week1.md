@@ -7,7 +7,7 @@
 2. Convert blog notes to real blog.
 3. Test learning strategies against reality
 
-
+&nbsp;
 
 
 
