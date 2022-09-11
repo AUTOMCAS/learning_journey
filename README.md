@@ -1,22 +1,17 @@
 # Chris Aston - Learning Journey
  
  
- 
-## Blog
-Recording learning strategies and reflection in blog -link
-
-
-## Long term goals
+ ## Long term goals
 
 #### Learning 
-- I have well developed and effective learning strategies. -> Blog link
-- I can use these strategies to learn and master any new tool or programming language. -> Blog link
-- I use frequent testing and reflection to identify gaps in my knowledge. -> Blog link
-- I address knowledge gaps effectively. -> Blog link
+- I have well developed and effective learning strategies.
+- I can use these strategies to learn and master any new tool or programming language.
+- I use frequent testing and reflection to identify gaps in my knowledge.
+- I address knowledge gaps effectively.
 
 
 #### Programming
-- I can program fluently. -> Projects link
+- I can program fluently.
 - I can understand and break down a specification into requirements.
 - I know how and where to look for help.
 - I can effectively use TDD.

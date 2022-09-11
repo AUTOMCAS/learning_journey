@@ -7,7 +7,7 @@
 
 **2. Convert blog notes to real blog.**
 
-**3. Test learning strategies against reality**
+**3. Test learning strategies against reality.**
 
 &nbsp;
 
@@ -30,7 +30,7 @@ Blog
 
 &nbsp;
 
-### Goal 3: Test learning strategies against reality
+### Goal 3: Test learning strategies against reality.
 ##### PLAN
 - Continue with strategies that have worked in the pre-course and reflect on effectiveness.
 ##### EVIDENCE
