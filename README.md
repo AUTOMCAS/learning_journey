@@ -1,7 +1,7 @@
 # Chris Aston - Learning Journey
 This repository is a record of my learning journey through Makers Academy on my way to become a Software Developer. 
 
-There are 2 parts:
+There are two main parts:
 
 [Learning Strategies](https://github.com/AUTOMCAS/LearningJourney/tree/main/Learning_Stratagies) focuses on the specific development of my learning strategies. This sets the foundation for my ability to improve and develop.
 
