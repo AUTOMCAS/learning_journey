@@ -8,7 +8,7 @@ I read a number of books on the science of learning and problem solving. I disco
 
 I created a number of resources in which I outlined various key concepts of effective learning.
 
-#### For example
+**For example**
 - Identify learning objectives.
 - Start with questions and read for answers.
 - Regularly test yourself on recalling information to identify knowledge gaps.
@@ -22,3 +22,11 @@ Since starting the course I have continued to develop and apply these strategies
 - Recording my development and implementation of various learning strategies.
 - Reflection of what went well.
 - Planning what to improve on.
+
+**Precourse reviews**
+[Week 1](https://github.com/AUTOMCAS/LearningJourney/blob/main/Learning_Stratagies/Precourse_Week1.md)
+[Week 2 and 3](https://github.com/AUTOMCAS/LearningJourney/blob/main/Learning_Stratagies/Precourse_Week2_and_3.md)
+[Week 4](https://github.com/AUTOMCAS/LearningJourney/blob/main/Learning_Stratagies/Precourse_Week4.md)
+
+
+**Reviews**
