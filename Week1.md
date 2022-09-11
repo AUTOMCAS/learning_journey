@@ -4,7 +4,9 @@
 ## Goals
 
 **1. Get to Makers site OK and get an understanding of the coming weeks.**
+
 **2. Convert blog notes to real blog.**
+
 **3. Test learning strategies against reality**
 
 &nbsp;
