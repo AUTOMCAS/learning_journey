@@ -38,7 +38,7 @@
 
 
 ## Weekly goals
-[Week 1](https://github.com/AUTOMCAS/LearningJourney/blob/main/Week1.md)
+[Week 1](https://github.com/AUTOMCAS/LearningJourney/blob/main/Weekly_Goals/Week1.md)
 
 ## Daily checks - did I do this today?
 - Recall before looking a solution up.
