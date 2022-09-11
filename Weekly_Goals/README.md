@@ -1,6 +1,8 @@
 ## Weekly Goals
 
-- Setting weekly goals.
-- Outlining plan to achieve each goal.
-- Evidence each goal was achieved.
+### Intent
+- Set weekly goals.
+- Outline plans to achieve each goal.
+- Evidence how each goal was achieved.
 - Reflection.
+- Feedback.
