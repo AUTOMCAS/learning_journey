@@ -1,7 +1,7 @@
-# Week 1
+## Week 1
 
 
-## Goals
+### Goals
 
 **1. Get to Makers site OK and get an understanding of the coming weeks.**
 
@@ -11,7 +11,7 @@
 
 &nbsp;
 
-### Goal 1: Get to Makers site OK and get an understanding of the coming weeks.
+#### Goal 1: Get to Makers site OK and get an understanding of the coming weeks.
 ##### PLAN
 Attend on site and fully immerse self.
 ##### EVIDENCE
@@ -20,7 +20,7 @@ Attend on site and fully immerse self.
 
 &nbsp;
 
-### Goal 2: Convert blog notes to real blog.
+#### Goal 2: Convert blog notes to real blog.
 ##### PLAN
 - Explore Medium for blog use.
 - Transfer diagrams and notes to blog
@@ -30,7 +30,7 @@ Blog
 
 &nbsp;
 
-### Goal 3: Test learning strategies against reality.
+#### Goal 3: Test learning strategies against reality.
 ##### PLAN
 - Continue with strategies that have worked in the pre-course and reflect on effectiveness.
 ##### EVIDENCE
