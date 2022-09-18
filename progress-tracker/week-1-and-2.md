@@ -3,36 +3,16 @@ The Golden Square Challenges spanning the first two weeks.
 Test-driving, debugging, object-oriented design and pairing.
 
 ### Goals
-
 1. Learn to use basic **TDD** best practices.
 2. Learn to use basic **debugging** best practices.
 3. 
 4. Learn to build software as a **pair.**
 
-### Plan
-General plan
-- Complete the Makers module introducing test-driving, debugging, object-oriented design and pairing.
-- Watch videos, attend workshops and pair with others to gain helpful insights, advice and tips.
-- 
-Specific plan
-
-1. Learn to use basic **TDD** best practices.
-2. Learn to use basic **debugging** best practices.
-3. 
-4. Pair with a different partner every afternoon for at least 3 hours.
-
-From learning strategies (link?):
+### Learning strategies (link?) to help in achieving these:
 - Create diagrams to aid in understanding.
-- Identify key processes and principles as I go.
+- Identify and record key processes and principles as I go. (Learning doc link)
 - Repeat, recall and test myself on key processes and knowhow.
-
-### Evidence
-- Completed the relevant exercises and challenges from the Makers module: (LINK)
-- Videos of my challenge completion. (include coach feedback?)
-- DIAGRAM OF BASIC RSPEC
-- DESIGN METHOD TEMPLATE 
-
-
+- Describe understanding and knowledge to others.
 
 
 
@@ -43,83 +23,18 @@ From learning strategies (link?):
 ##### EVIDENCE
 - Completed a challenge to use TDD to design a single-method program. [Link here](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/03_design_a_single_method/challenge)
 - Challenge to use TTD to design a single-class program. [Link here](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/06_design_a_class/challenge)
-- [Diagram of how to use *describe*, *context* and *it* in rspec] to aid my understanding.
+- [Diagram of how to use *describe*, *context* and *it* in rspec](https://github.com/AUTOMCAS/LearningJourney/blob/main/diagrams/rspec-basics.jpg)
 - DESIGN METHOD TEMPLATE 
-- Videos of my challenge completion. (include coach feedback?)
+- Videos of my challenge completion.[Link here](https://github.com/AUTOMCAS/LearningJourney/tree/main/videos/week_1) (include coach feedback?)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Goal 1: Learn to test-drive programs with multiple classes.
+#### Goal 2: Learn to use basic **debugging** best practices.
 ##### PLAN
-- Complete the Makers module on designing and test driving single method, multiple method and class programs.
-- Watch videos, attend workshops and pair with others to gain helpful insights, advice and tips.
-- Create diagrams to aid in understanding.
-- Repeat, recall and test myself on key processes and knowhow.
+- Complete Makers exercises and challenges on debugging.
 ##### EVIDENCE
-- Completed the relevant exercises and challenges from the Makers module: (LINK)
-- DIAGRAM OF BASIC RSPEC
-- DESIGN METHOD TEMPLATE 
-- Videos of my challenge completion. (include coach feedback?)
+- Learned about Discovery Debugging, completed challenge to debug the Letter Counter program with a pair partner. Used *p* and *binding.irb* to gain visibility. [Link here](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/07_intermezzo_debugging_2)
 
-
-&nbsp;
-
-#### Goal 2: Learn to debug programs.
-##### PLAN
-- Complete the relevant Makers modules.
-- Watch videos, attend workshops and pair with others to gain helpful insights, advice and tips.
-- Create diagrams to aid in understanding.
-- Repeat, recall and test myself on key processes and knowhow.
-##### EVIDENCE
-- I am able to now use *p* and *binding.irb* effectively
-
-&nbsp;
-
-#### Goal 3: Learn to break programs up into classes.
-##### PLAN
-- Complete the relevant Makers modules.
-- Watch videos, attend workshops and pair with others to gain helpful insights, advice and tips.
-- Create diagrams to aid in understanding.
-- Repeat, recall and test myself on key processes and knowhow.
-##### EVIDENCE
-
-
-&nbsp;
-
-#### Goal 4: Learn to build software as a pair.
-##### PLAN
-
-##### EVIDENCE
-
-
-&nbsp;
-#### Goal 5: Learn to explain why test-driving, object-oriented design, debugging, and pairing are powerful practices for software engineers.
-##### PLAN
-
-##### EVIDENCE
-
-
-&nbsp;
-
-
-
-### Weekly reflection?
 
 ##### REFLECTION AND FEEDBACK
 During the first week I was paired with people who were behind me on the challenges.Although I do not have direct evidence, I was able to work with each pair partner and confidently explain most of the key concepts and terminology and help them move forward.This also gave me a great opportunity to reflect on what I had learned, identify gaps in my knowledge and address them.
