@@ -1,16 +1,17 @@
 # Chris Aston - Learning Journey
-This repository is a record of my learning journey through Makers Academy on my way to become a Software Developer. 
+### This repository is a record of my learning journey through Makers Academy on my way to become a Software Developer. 
 
-There are two main parts:
+### There are two distinct parts:
 
-[Learning Strategies](https://github.com/AUTOMCAS/LearningJourney/tree/main/Learning_Stratagies) focuses on the specific development of my learning strategies. This sets the foundation for my ability to improve and develop.
+### [Learning Strategies](https://github.com/AUTOMCAS/LearningJourney/tree/main/learning_stratagies) focuses on the specific development of my learning strategies. This builds a foundation to be able to develop and improve any skill or area of knowledge.
 
-[Weekly Goals](https://github.com/AUTOMCAS/LearningJourney/tree/main/Weekly_Goals) focuses more generally on my weekly goals, achievements and reflections on the journey through Makers to become a Software Developer.
+### [Progress Tracker](https://github.com/AUTOMCAS/LearningJourney/tree/main/progress_tracker) focuses on my journey through Makers to become a Software Developer. Records my goals, strategies, achievements and reflections on how things went, personal experiences with pairing and various challenges along the way. 
+
 
 &nbsp;
 ## Long term goals
 
-#### Learning  and [Developing Learning Strategies](https://github.com/AUTOMCAS/LearningJourney/tree/main/Learning_Stratagies)
+#### Learning  and [Developing Learning Strategies](https://github.com/AUTOMCAS/LearningJourney/tree/main/learning_stratagies)
 
 - I have well developed and effective learning strategies.
 - I can use these strategies to learn and master any new tool or programming language.
