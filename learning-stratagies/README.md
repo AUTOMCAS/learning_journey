@@ -2,31 +2,24 @@
 
 ## Learning how to learn
 
+*Disclaimer: This repo follows an ever changing, dynamic journey of self discovery, reflection and progress. I have tried to introduce order to this chaos through organisation and consistency but I have not always succeeded.*
+
 Before the start of the course I decided that there was no better thing to do than to focus on **learning how to learn**. Coming from a background in Education I had a good idea of how to learn effectively, or so I thought! 
 
 I read a number of books on the science of learning and problem solving. I discovered that while I had many good learning strategies, some of which were automatic, I still had a lot to learn about my own effective learning. 
 
-I created a number of resources in which I outlined various key concepts of effective learning.
-
-**For example**
-- Identify learning objectives.
-- Start with questions and read for answers.
-- Regularly test yourself on recalling information to identify knowledge gaps.
-- Review learning strategies to see what is working.
-- Understand foundational principles and key concepts. These can be applied to larger scope.
-- Celebrate challenges. Hard means you are learning!
+I created a number of resources along this journey but a concise and sweet version is **[HERE](https://github.com/AUTOMCAS/learning-journey/blob/main/learning-stratagies/methods-for-effective-learning.md)**
 
 Since starting the course I have continued to develop and apply these strategies to Software Development, reflecting and improving my personal learning strategies. This repository is a continuation of this development.
 
+This journey, 
+
 **Included in this repository:**
-- Recording my development and implementation of various learning strategies.
+- A record of my development and implementation of various learning strategies.
 - Reflection of what went well.
 - Planning what to improve on.
 
-**Precourse reviews**
-[Week 1](https://github.com/AUTOMCAS/LearningJourney/blob/main/Learning_Stratagies/Precourse_Week1.md)
-[Week 2 and 3](https://github.com/AUTOMCAS/LearningJourney/blob/main/Learning_Stratagies/Precourse_Week2_and_3.md)
-[Week 4](https://github.com/AUTOMCAS/LearningJourney/blob/main/Learning_Stratagies/Precourse_Week4.md)
+[Precourse reviews](https://github.com/AUTOMCAS/LearningJourney/blob/main/learning-stratagies/precourse)
 
 
 **Reviews**

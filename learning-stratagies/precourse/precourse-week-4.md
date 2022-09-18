@@ -16,6 +16,3 @@ Learning Strategy Review
 | What to improve on                                                                              | Action           |
 | -------------                                                                                   |---------------|
 | Inconsistently using the **Review Document** for review                                                                                              | Set time aside at the end of the day to review key concepts from the **Review Document**|
-
-
-### Notes
