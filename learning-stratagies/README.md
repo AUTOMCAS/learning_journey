@@ -12,14 +12,15 @@ I created a number of resources along this journey but a concise and sweet versi
 
 Since starting the course I have continued to develop and apply these strategies to Software Development, reflecting and improving my personal learning strategies. This repository is a continuation of this development.
 
-This journey, 
-
 **Included in this repository:**
 - A record of my development and implementation of various learning strategies.
 - Reflection of what went well.
 - Planning what to improve on.
 
+--------------------------
+### Reviews
+
 [Precourse reviews](https://github.com/AUTOMCAS/LearningJourney/blob/main/learning-stratagies/precourse)
 
 
-**Reviews**
+[Week 1](https://github.com/AUTOMCAS/learning-journey/blob/main/learning-stratagies/weekly-reviews/week-1.md)
