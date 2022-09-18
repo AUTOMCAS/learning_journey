@@ -8,7 +8,7 @@ Test-driving, debugging, object-oriented design and pairing.
 3. Explore and use **Object Orientated Programming (OOP)**.
 4. Learn to build software as a **pair**.
 
-### Learning strategies (link?) to help in achieving these:
+**Learning strategies (link?) to help achieve these:**
 - Create diagrams to aid in understanding.
 - Identify and record key processes and principles as I go. (Learning doc link)
 - Repeat, recall and test myself on key processes and knowhow.
@@ -16,13 +16,13 @@ Test-driving, debugging, object-oriented design and pairing.
 
 
 
-#### Goal 1: Learn to use basic **TDD** best practices.
-##### PLAN
+**Goal 1: Learn to use basic **TDD** best practices.**
+**PLAN**
 - Complete Makers exercises and challenges to build programs by using test driven development (TDD).
 
 ##### EVIDENCE
 - Completed a challenge to use test drive a single-class **Diary Entry** program. [Link here](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/05_test_drive_a_class/challenge)
-- [Diagram of how to use *describe*, *context* and *it* in rspec](https://github.com/AUTOMCAS/LearningJourney/blob/main/diagrams/rspec-basics.jpg)
+- [Diagram of how to use *describe*, *context* and *it* in rspec](https://github.com/AUTOMCAS/learning-journey/blob/main/diagrams/rspec-basics.jpg)
 - DESIGN METHOD TEMPLATE 
 
 
@@ -41,8 +41,8 @@ Test-driving, debugging, object-oriented design and pairing.
 ##### EVIDENCE
 - Completed a challenge to use TDD to design a single-method program. [Link here](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/03_design_a_single_method/challenge)
 - Challenge to use TTD to design a single-class program. [Link here](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/06_design_a_class/challenge)
-- [Diagram to explain scope](https://github.com/AUTOMCAS/LearningJourney/blob/main/diagrams/scope.png)
-- Videos of my challenge completion.[Link here](https://github.com/AUTOMCAS/LearningJourney/tree/main/videos/week_1) (include coach feedback?)
+- [Diagram to explain scope](https://github.com/AUTOMCAS/learning-journey/blob/main/diagrams/scope.png)
+- Videos of my challenge completion.[Link here](https://github.com/AUTOMCAS/learning-journey/tree/main/videos/week_1) (include coach feedback?)
 
 #### Goal 3: Learn to build software as a **pair**.
 ##### PLAN

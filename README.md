@@ -3,9 +3,9 @@
 
 There are two distinct parts:
 
-**[Learning Strategies](https://github.com/AUTOMCAS/LearningJourney/tree/main/learning-stratagies) - The specific development of my learning strategies. This builds a foundation to be able to develop and improve any skill or area of knowledge.**
+**[Learning Strategies](https://github.com/AUTOMCAS/learning-journey/tree/main/learning-stratagies) - The specific development of my learning strategies. This builds a foundation to be able to develop and improve any skill or area of knowledge.**
 
-**[Progress Tracker](https://github.com/AUTOMCAS/LearningJourney/tree/main/progress-tracker) - Kind of a goal driven technical blog. My journey through Makers to become a Software Developer. Records my goals, strategies, achievements and reflections on how things went, personal experiences with pairing and various challenges along the way.**
+**[Progress Tracker](https://github.com/AUTOMCAS/learning-journey/tree/main/progress-tracker) - Kind of a goal driven technical blog. My journey through Makers to become a Software Developer. Records my goals, strategies, achievements and reflections on how things went, personal experiences with pairing and various challenges along the way.**
 
 These parts come together to fulfill my long term goals and inform my day to day approach. 
 
@@ -13,7 +13,7 @@ These parts come together to fulfill my long term goals and inform my day to day
 
 ## Long term goals
 
-#### Learning  and [Developing Learning Strategies](https://github.com/AUTOMCAS/LearningJourney/tree/main/learning-stratagies)
+#### Learning  and [Developing Learning Strategies](https://github.com/AUTOMCAS/learning-journey/tree/main/learning-stratagies)
 
 - I have well developed and effective learning strategies.
 - I can use these strategies to learn and master any new tool or programming language.

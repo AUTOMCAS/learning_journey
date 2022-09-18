@@ -8,4 +8,4 @@
 - Feedback.
 
 ### Quick links
-[Week 1 and 2 - Summary](https://github.com/AUTOMCAS/LearningJourney/blob/main/progress_tracker/week_1_and_2.md)
+[Week 1 and 2 - Summary](https://github.com/AUTOMCAS/learning-journey/blob/main/progress_tracker/week-1-and-2.md)
