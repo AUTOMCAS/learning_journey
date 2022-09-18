@@ -11,7 +11,7 @@ These parts come together to fulfill my **long term goals** and inform my day to
 
 ## Long term goals
 
-#### Learning  and [Developing Learning Strategies](https://github.com/AUTOMCAS/learning-journey/tree/main/learning-stratagies)
+#### Learning and Developing Learning Strategies
 
 - I have well developed and effective learning strategies.
 - I can use these strategies to learn and master any new tool or programming language.
