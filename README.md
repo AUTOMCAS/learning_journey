@@ -1,14 +1,16 @@
 # Chris Aston - Learning Journey
 ### This repository is a record of my learning journey through Makers Academy on my way to become a Software Developer. 
 
-### There are two distinct parts:
+There are two distinct parts:
 
-### [Learning Strategies](https://github.com/AUTOMCAS/LearningJourney/tree/main/learning_stratagies) focuses on the specific development of my learning strategies. This builds a foundation to be able to develop and improve any skill or area of knowledge.
+### [Learning Strategies](https://github.com/AUTOMCAS/LearningJourney/tree/main/learning_stratagies) - The specific development of my learning strategies. This builds a foundation to be able to develop and improve any skill or area of knowledge.
 
-### [Progress Tracker](https://github.com/AUTOMCAS/LearningJourney/tree/main/progress_tracker) focuses on my journey through Makers to become a Software Developer. Records my goals, strategies, achievements and reflections on how things went, personal experiences with pairing and various challenges along the way. 
+### [Progress Tracker](https://github.com/AUTOMCAS/LearningJourney/tree/main/progress_tracker) - My journey through Makers to become a Software Developer. Records my goals, strategies, achievements and reflections on how things went, personal experiences with pairing and various challenges along the way.
 
+### These parts come together to fulfill my long term goals and inform my day to day approach. 
 
-&nbsp;
+***Perhaps include links below to various parts?***
+
 ## Long term goals
 
 #### Learning  and [Developing Learning Strategies](https://github.com/AUTOMCAS/LearningJourney/tree/main/learning_stratagies)
@@ -25,7 +27,7 @@
 - I know how and where to look for help.
 - I can effectively use TDD.
 - I have a well established and effective processes for solving problems.
-- I can efficiently and methodically bebug.
+- I can efficiently and methodically debug.
 - I can methodically solve any small problem, so I can solve any large problem.
 
 
@@ -44,10 +46,6 @@
 - I make time to enjoy my hobbies.
 - I get enough sleep.
 
-
-
-## Weekly goals
-[Week 1](https://github.com/AUTOMCAS/LearningJourney/blob/main/Weekly_Goals/Week1.md)
 
 ## Daily checks - did I do this today?
 - Recall before looking a solution up.
