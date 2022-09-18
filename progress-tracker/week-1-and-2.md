@@ -14,45 +14,47 @@ Test-driving, debugging, object-oriented design and pairing.
 - Repeat, recall and test myself on key processes and knowhow.
 - Describe understanding and knowledge to others.
 
+--------------------------
 
-
-**Goal 1: Learn to use basic **TDD** best practices.**
+### Goal 1: Learn to use basic **TDD** best practices.*
 **PLAN**
 - Complete Makers exercises and challenges to build programs by using test driven development (TDD).
 
-##### EVIDENCE
+**EVIDENCE**
 - Completed a challenge to use test drive a single-class **Diary Entry** program. [Link here](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/05_test_drive_a_class/challenge)
 - [Diagram of how to use *describe*, *context* and *it* in rspec](https://github.com/AUTOMCAS/learning-journey/blob/main/diagrams/rspec-basics.jpg)
 - DESIGN METHOD TEMPLATE 
 
+--------------------------
 
 
-
-#### Goal 2: Learn to use basic **debugging** best practices.
-##### PLAN
+### Goal 2: Learn to use basic **debugging** best practices.
+**PLAN**
 - Complete Makers exercises and challenges on debugging.
-##### EVIDENCE
+**EVIDENCE**
 - Learned about Discovery Debugging, completed challenge to debug a **Letter Counter** program with a pair partner. Used *p* and *binding.irb* to gain visibility. [Link here](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/07_intermezzo_debugging_2)
 
-
-#### Goal 3: Explore and use **Object Orientated Programming (OOP)**.
-##### PLAN
+--------------------------
+### Goal 3: Explore and use **Object Orientated Programming (OOP)**.
+**PLAN**
 - Complete Makers exercises and challenges on methods, classes and multiple class programs.
-##### EVIDENCE
+**EVIDENCE**
 - Completed a challenge to use TDD to design a single-method program. [Link here](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/03_design_a_single_method/challenge)
 - Challenge to use TTD to design a single-class program. [Link here](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/06_design_a_class/challenge)
 - [Diagram to explain scope](https://github.com/AUTOMCAS/learning-journey/blob/main/diagrams/scope.png)
 - Videos of my challenge completion.[Link here](https://github.com/AUTOMCAS/learning-journey/tree/main/videos/week_1) (include coach feedback?)
 
-#### Goal 3: Learn to build software as a **pair**.
-##### PLAN
+--------------------------
+### Goal 3: Learn to build software as a **pair**.
+**PLAN**
 - Pair with a different person each afternoon for at least 3 hours.
-##### EVIDENCE
+**EVIDENCE**
 - Completed the [Letter Counter](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/07_intermezzo_debugging_2) program with a pair.
 - Lovely comments during first week retro.
 - Positive feedback and messages from pair partners and requests to pair again in future.
+--------------------------
 
-##### REFLECTION AND FEEDBACK
+### REFLECTION AND FEEDBACK
 
 **What went well:**
 During the first week I was paired with people who were behind me on the challenges. I was able to work with each pair partner and confidently explain most of the key concepts and terminology and help them move forward. This also gave me a great opportunity to reflect on what I had learned, identify gaps in my knowledge and address them.
