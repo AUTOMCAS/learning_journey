@@ -8,7 +8,7 @@ Test-driving, debugging, object-oriented design and pairing.
 3. Explore and use **Object Orientated Programming (OOP)**.
 4. Learn to build software as a **pair**.
 
-**[Learning strategies](https://github.com/AUTOMCAS/learning-journey/tree/main/learning-strategies) to help achieve these:**
+**[Learning strategies](https://github.com/AUTOMCAS/learning_journey/tree/main/learning_strategies) to help achieve these:**
 - Create diagrams to aid in understanding.
 - Identify and record key processes and principles as I go. (Learning doc link)
 - Repeat, recall and test myself on key processes and knowhow.
@@ -21,8 +21,8 @@ Test-driving, debugging, object-oriented design and pairing.
 - Complete Makers exercises and challenges to build programs by using test driven development (TDD).
 
 **EVIDENCE**
-- Completed a challenge to use test drive a single-class **[Grammar checker](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/05_test_drive_a_class/challenge)** program. 
-- [Diagram of how to use *describe*, *context* and *it* in rspec](https://github.com/AUTOMCAS/learning-journey/blob/main/diagrams/rspec-basics.jpg)
+- Completed a challenge to use test drive a single-class **[Grammar checker](https://github.com/AUTOMCAS/makers_projects/tree/main/week_1/phase_two/05_test_drive_a_class/challenge)** program. 
+- [Diagram of how to use *describe*, *context* and *it* in rspec](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/rspec_basics.jpg)
 - DESIGN METHOD TEMPLATE 
 
 --------------------------
@@ -32,24 +32,24 @@ Test-driving, debugging, object-oriented design and pairing.
 **PLAN**
 - Complete Makers exercises and challenges on debugging.
 **EVIDENCE**
-- Learned about Discovery Debugging, completed challenge to debug a **[Letter Counter](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/07_intermezzo_debugging_2)** program with a pair partner. Used *p* and *binding.irb* to gain visibility. 
+- Learned about Discovery Debugging, completed challenge to debug a **[Letter Counter](https://github.com/AUTOMCAS/makers_projects/tree/main/week_1/phase_two/07_intermezzo_debugging_2)** program with a pair partner. Used *p* and *binding.irb* to gain visibility. 
 
 --------------------------
 ### Goal 3: Explore and use **Object Orientated Programming (OOP)**
 **PLAN**
 - Complete Makers exercises and challenges on methods, classes and multiple class programs.
 **EVIDENCE**
-- Completed a challenge to use TDD to design a single-method **[To do list](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/03_design_a_single_method/challenge)** program. [Recording](https://github.com/AUTOMCAS/learning-journey/blob/main/videos/week-1/phase_two_03_challenge.mp4)
+- Completed a challenge to use TDD to design a single-method **[To do list](https://github.com/AUTOMCAS/makers_projects/tree/main/week_1/phase_two/03_design_a_single_method/challenge)** program. [Recording](https://github.com/AUTOMCAS/learning_journey/blob/main/videos/week_1/phase_two_03_challenge.mp4)
 
-- Challenge to use TTD to design a single-class **[Music track tracker](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/06_design_a_class/challenge)** program. Recording](https://github.com/AUTOMCAS/learning-journey/blob/main/videos/week-1/phase_two_06_challenge.mp4)
-- [Diagram to explain scope](https://github.com/AUTOMCAS/learning-journey/blob/main/diagrams/scope.png)
+- Challenge to use TTD to design a single-class **[Music track tracker](https://github.com/AUTOMCAS/makers_projects/tree/main/week_1/phase_two/06_design_a_class/challenge)** program. Recording](https://github.com/AUTOMCAS/learning_journey/blob/main/videos/week-1/phase_two_06_challenge.mp4)
+- [Diagram to explain scope](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/scope.png)
 
 --------------------------
 ### Goal 4: Learn to build software as a **pair**
 **PLAN**
 - Pair with a different person each afternoon for at least 3 hours.
 **EVIDENCE**
-- Completed the [Letter Counter](https://github.com/AUTOMCAS/makers-projects/tree/main/week-1/phase-two/07_intermezzo_debugging_2) program with a pair.
+- Completed the [Letter Counter](https://github.com/AUTOMCAS/makers_projects/tree/main/week_1/phase_two/07_intermezzo_debugging_2) program with a pair.
 - Lovely comments during first week retro.
 - Positive feedback and messages from pair partners and requests to pair again in future.
 --------------------------

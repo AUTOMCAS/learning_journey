@@ -1,11 +1,11 @@
-# Chris Aston - Learning Journey
+# Chris Aston - A Learning Journey
 **This repository is a record of my learning journey through Makers Academy on my way to becoming a Software Developer.**
 
 There are two distinct parts:
 
-**[Learning Strategies](https://github.com/AUTOMCAS/learning-journey/tree/main/learning-strategies) - A record of my journey to better learn how to learn. The specific development of my learning strategies. This builds a foundation to be able to develop and improve any skill or area of knowledge.**
+**[Learning Strategies](https://github.com/AUTOMCAS/learning_journey/tree/main/learning_strategies) - A record of my journey to better learn how to learn. The specific development of my learning strategies. This builds a foundation to be able to develop and improve any skill or area of knowledge.**
 
-**[Progress Tracker](https://github.com/AUTOMCAS/learning-journey/tree/main/progress-tracker) - A kind of a goal driven technical blog. Records my goals, strategies, achievements and reflections on how things went, personal experiences with pairing and various challenges along the way.**
+**[Progress Tracker](https://github.com/AUTOMCAS/learning_journey/tree/main/progress_tracker) - A kind of a goal driven technical blog. Records my goals, strategies, achievements and reflections on how things went, personal experiences with pairing and various challenges along the way.**
 
 These parts come together to fulfill my **long term goals** and inform my day to day approach. 
 
