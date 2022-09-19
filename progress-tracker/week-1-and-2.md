@@ -8,7 +8,7 @@ Test-driving, debugging, object-oriented design and pairing.
 3. Explore and use **Object Orientated Programming (OOP)**.
 4. Learn to build software as a **pair**.
 
-**[Learning strategies](https://github.com/AUTOMCAS/learning-journey/tree/main/learning-stratagies) to help achieve these:**
+**[Learning strategies](https://github.com/AUTOMCAS/learning-journey/tree/main/learning-strategies) to help achieve these:**
 - Create diagrams to aid in understanding.
 - Identify and record key processes and principles as I go. (Learning doc link)
 - Repeat, recall and test myself on key processes and knowhow.
