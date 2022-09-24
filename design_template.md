@@ -63,7 +63,8 @@ Write out tests for each part of the brief.
 
 
 **INTEGRATION TEST TEMPLATE**
-`````
+
+```
 describe "class integration" do
   it "Adds ClassInstances to list / lists ClassInstances added" do
 
@@ -101,13 +102,13 @@ describe "class integration" do
     end
   end
 end
-````
+```
 
 # 4 Create examples as unit tests
 
 Do this as you go along
 
-````
+```
 **UNIT**
   describe "Class" do
     it "initially has/is empty ..." do
@@ -120,6 +121,6 @@ Do this as you go along
       # add entries
     end
   end
-````
+```
 
 # 5 Implement the Behavior
