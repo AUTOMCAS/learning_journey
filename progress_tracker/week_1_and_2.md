@@ -25,7 +25,7 @@ Test-driving, debugging, object-oriented design and pairing.
 - [Diagram of how to use *describe*, *context* and *it* in rspec](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/rspec_basics.jpg)
 - Complete challenge to test drive a multi-class program **[TodoList](https://github.com/AUTOMCAS/makers_projects/tree/main/week_1/phase_two/08_test_drive_a_class_system/challenge)**
 - Unit testing parent-child classes using mocking **[TaskList](https://github.com/AUTOMCAS/makers_projects/tree/main/week_2/phase_three/01_unit_testing_parent_child_classes_bite/challenge)**
-- DESIGN METHOD TEMPLATE 
+- **[DESIGN METHOD TEMPLATE](https://github.com/AUTOMCAS/learning_journey/blob/main/design_template.md)**
 
 --------------------------
 
@@ -50,19 +50,24 @@ Test-driving, debugging, object-oriented design and pairing.
 ### Goal 4: Learn to build software as a **pair**
 **PLAN**
 - Pair with a different person each afternoon for at least 3 hours.
+- Attend emotional intelligence workshop on how to give and receive valuable feedback.
 **EVIDENCE**
 - Completed the [Letter Counter](https://github.com/AUTOMCAS/makers_projects/tree/main/week_1/phase_two/07_intermezzo_debugging_2) program with a pair.
 - Lovely comments during first week retro.
 - Positive feedback and messages from pair partners and requests to pair again in future.
+- Participated in the emotional intelligence workshop, asked questions to explore personal views and gain deeper understanding. Gained valuable insight into the art of giving and receiving valuable feedback.
 --------------------------
 
 ### Reflection and feedback
 
 **What went well**
-
-During the first week I was paired with people who were behind me on the challenges. I was able to work with each pair partner and confidently explain most of the key concepts and terminology and help them move forward. This also gave me a great opportunity to reflect on what I had learned, identify gaps in my knowledge and address them.
+During the first two weeks I was paired with people who were behind me on the challenges. I was able to work with each pair partner and confidently explain most of the key concepts and terminology and help them move forward. This also gave me a great opportunity to reflect on what I had learned, identify gaps in my knowledge and address them.
 
 Initially it seemed a bit odd to start a project by writing tests and no code. However, as I learned more and more about how to implement TDD effectively, I saw how extremely useful it is. It acts as another great way to break down a problem to smaller, more manageable problems and keeps you thinking very deliberately and methodically about what is going on and what your goals are.
+
+Reflecting on challenges, failures and successes and identifying gaps in knowledge for revisiting. 
+
+The emotional intelligence workshop focused on how to give and receive good feedback.
 
 **Even better if**
 - Record my progress more regularly, not just at end of the week.
