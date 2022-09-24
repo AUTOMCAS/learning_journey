@@ -12,29 +12,33 @@ Integrate a relational database to a program by test-driving classes which imple
 2. Learn to use SQL to manage and communicate with a database.
 3. Learn to use TDD to design a program which integrates a relational database. Implement CRUD methods to send SQL queries to a database.
 
-&nbsp;
+--------------------------
 
 ### Goal 1: Learn to use SQL to create a schema in a database
 **PLAN**
-- 
+- Complete Makers exercises and challenges introducing SQL.
+
 **EVIDENCE**
-- 
+- /
+
 --------------------------
 
 
 #### Goal 2: Learn to use SQL to manage and communicate with a database
 **PLAN**
-- 
+- Complete Makers exercises and challenges on using SQL to read and manipulate database data.
+
 **EVIDENCE**
-- 
+- /
 
 --------------------------
 
 #### Goal 3: Learn to use TDD to design a program which integrates a relational database. Implement CRUD methods to send SQL queries to a database.
 **PLAN**
-- 
+- Complete Makers exercises and challenges on how to setup and build a program which communicates with a database.
+
 **EVIDENCE**
-- 
+- /
 
 --------------------------
 
