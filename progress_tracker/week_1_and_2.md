@@ -21,8 +21,10 @@ Test-driving, debugging, object-oriented design and pairing.
 - Complete Makers exercises and challenges to build programs by using test driven development (TDD).
 
 **EVIDENCE**
-- Completed a challenge to use test drive a single-class **[Grammar checker](https://github.com/AUTOMCAS/makers_projects/tree/main/week_1/phase_two/05_test_drive_a_class/challenge)** program. 
+- Completed a challenge to use TTD to test drive a single-class **[Grammar checker](https://github.com/AUTOMCAS/makers_projects/tree/main/week_1/phase_two/05_test_drive_a_class/challenge)** program. 
 - [Diagram of how to use *describe*, *context* and *it* in rspec](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/rspec_basics.jpg)
+- Complete challenge to test drive a multi-class program **[TodoList](https://github.com/AUTOMCAS/makers_projects/tree/main/week_1/phase_two/08_test_drive_a_class_system/challenge)**
+- Unit testing parent-child classes using mocking **[TaskList](https://github.com/AUTOMCAS/makers_projects/tree/main/week_2/phase_three/01_unit_testing_parent_child_classes_bite/challenge)**
 - DESIGN METHOD TEMPLATE 
 
 --------------------------
