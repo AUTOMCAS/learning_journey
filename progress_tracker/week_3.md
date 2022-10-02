@@ -1,4 +1,4 @@
-## Week 3
+## Week 3 - Databases
 
 
 ### Goals
@@ -51,3 +51,5 @@ Paring with somebody with a vastly different approach and way of working was cha
 
 **Even better if**  
 Keep better notes or links on some of the key concepts / information.
+
+Check back to weekly goals for progress.
