@@ -3,7 +3,7 @@ Learning Strategy Review
 
 -----------------------
 ### What went well
-- Drawing diagrams based on my own understanding. This helped identify knowledge gaps, consolidate learning and lay a good foundation for the rest of the week. [Database diagram](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/database.png)
+- Drawing diagrams based on my own understanding. This helped identify knowledge gaps, consolidate learning and lay a good foundation for the rest of the week. [Database diagram](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/databases/database.png)
 - When working alone, taking good beaks and switching off from thinking about code. Pair boundaries need improvement.
 - Starting to deliberately give and ask for feedback form pair sessions.
 

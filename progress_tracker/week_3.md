@@ -15,7 +15,7 @@
 
 **EVIDENCE**
 - Completed [Blog challenge](https://github.com/AUTOMCAS/makers_projects/tree/main/week_3_databases/phase_2/05_designing_schema_two_tables) to design and create table schema using SQL.
-- [Design Diagram](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/database.png) I created to help understand the design process. This was shared with cohort and well received.
+- [Design Diagram](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/databases/database.png) I created to help understand the design process. This was shared with cohort and well received.
 
 --------------------------
 
@@ -35,7 +35,7 @@
 - Complete Makers exercises and challenges on how to setup and build a program which communicates with a database.
 
 **EVIDENCE**
-- Completed [Shop manager project](https://github.com/AUTOMCAS/makers_projects/tree/main/week_3_databases/shop_manager)
+- Completed [Shop manager project](https://github.com/AUTOMCAS/makers_projects/tree/main/week_3_databases/projects/shop_manager)
 - [Shop manager project Design diagram](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/shop_manager_diagram.png)
 
 --------------------------
