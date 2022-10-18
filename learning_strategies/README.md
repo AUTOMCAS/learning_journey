@@ -30,3 +30,6 @@ Since starting the course I have continued to develop and apply these strategies
 [Week 3](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_3.md)
 
 [Week 4](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_4.md)
+
+
+[Week 5](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_5.md)

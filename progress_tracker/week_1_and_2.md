@@ -1,5 +1,4 @@
-## Week 1 and 2
-The Golden Square Challenges.
+## Week 1 and 2 - The Golden Square Challenges
 Test-driving, debugging, object-oriented design and pairing.
 
 ### Goals
