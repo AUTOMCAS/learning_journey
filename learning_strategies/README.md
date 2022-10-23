@@ -23,13 +23,14 @@ Since starting the course I have continued to develop and apply these strategies
 [Precourse reviews](https://github.com/AUTOMCAS/learning_journey/tree/main/learning_strategies/precourse)
 
 
-[Week 1](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_1.md)
+[Week 1 - The Golden Square Challenges](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_1.md)
 
-[Week 2](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_2.md)
+[Week 2 - The Golden Square Challenges](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_2.md)
 
-[Week 3](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_3.md)
+[Week 3 - Databases](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_3.md)
 
-[Week 4](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_4.md)
+[Week 4 - Web applications](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_4.md)
 
+[Week 5 - The first group project: Engineering project 1](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_5.md)
 
-[Week 5](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_5.md)
+[Week 6 - Learning a new language: JavaScript Fundamentals](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_6.md)

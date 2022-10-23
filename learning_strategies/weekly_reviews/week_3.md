@@ -1,4 +1,4 @@
-## Week 3
+## Week 3 - Databases
 Learning Strategy Review
 
 -----------------------

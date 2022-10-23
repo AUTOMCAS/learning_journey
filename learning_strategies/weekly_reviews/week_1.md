@@ -1,4 +1,4 @@
-## Week 1
+## Week 1 - The Golden Square Challenges
 Learning Strategy Review
 
 -----------------------
