@@ -4,7 +4,7 @@
 
 1. Apply a coherent process to learn a new language.
 2. Test-drive a simple Javascript program using Node.
-2. Explain how asynchronous programming is different from synchronous, blocking programming.
+3. Explain how asynchronous programming is different from synchronous, blocking programming.
 4. Learn to debug in Javascript.
 
 ---

@@ -34,3 +34,5 @@ Since starting the course I have continued to develop and apply these strategies
 [Week 5 - The first group project: Engineering project 1](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_5.md)
 
 [Week 6 - Learning a new language: JavaScript Fundamentals](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_6.md)
+
+[Week 7 - Learning to use JavaScript to build frontend web applications](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/weekly_reviews/week_7.md)

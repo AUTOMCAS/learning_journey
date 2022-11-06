@@ -17,3 +17,5 @@
 [Week 5 - The first group project: Engineering project 1](https://github.com/AUTOMCAS/learning_journey/blob/main/progress_tracker/week_5.md)
 
 [Week 6 - Learning a new language: JavaScript Fundamentals](https://github.com/AUTOMCAS/learning_journey/blob/main/progress_tracker/week_6.md)
+
+[Week 7 - Learning to use JavaScript to build frontend web applications](https://github.com/AUTOMCAS/learning_journey/blob/main/progress_tracker/week_7.md)
