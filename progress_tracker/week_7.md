@@ -15,7 +15,7 @@
 **PLAN**
 - Complete the increasingly complex exercises and challenges to build a simple note taking app.
 **EVIDENCE**
-- Used TDD to largely complete development of the [Notes app]() frontend application. This web app allows a user to add notes which are stored on a backend server. Notes are retrieved and shown when the page is refreshed.
+- Used TDD to largely complete development of the [Notes app](https://github.com/AUTOMCAS/notes-app-paired) frontend application. This web app allows a user to add notes which are stored on a backend server. Notes are retrieved and shown when the page is refreshed.
 - Created a diagram to explore [Testing](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/web-apps/testing.png)
 - Mocking fetch in jest.
 --------------------------
@@ -27,7 +27,7 @@
 
 **EVIDENCE**
 - Created a diagram to explore the [DOM](https://github.com/AUTOMCAS/learning_journey/blob/main/diagrams/web-apps/dom.png)
-- Development of the [Notes app]() frontend application to allow a user to input and submit a new note. This note is then displayed on the page along with existing notes.
+- Development of the [Notes app](https://github.com/AUTOMCAS/notes-app-paired) frontend application to allow a user to input and submit a new note. This note is then displayed on the page along with existing notes.
 
 --------------------------
 
@@ -36,7 +36,7 @@
 - Complete exercises and challenges which explore the concept of asynchronous programming.
 
 **EVIDENCE**
-- Development of the [Notes app]() frontend application which stores notes on a backend server. Notes are retrieved when the page is loaded using a fetch GET request. Notes are created and stored on the backend server using fetch POST.
+- Development of the [Notes app](https://github.com/AUTOMCAS/notes-app-paired) frontend application which stores notes on a backend server. Notes are retrieved when the page is loaded using a fetch GET request. Notes are created and stored on the backend server using fetch POST.
 - Completed the [Github repository lookup](https://github.com/AUTOMCAS/makers_projects/tree/main/week_7/phase_3/example-4) web app exercises. This web app uses user input and fetch to to retrieve information about Github repositories.
 
 
