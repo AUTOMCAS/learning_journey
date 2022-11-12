@@ -1,4 +1,4 @@
-## Week 5 The first group project: Engineering project 1
+## Week 5 - The first group project: AirBnB clone
 Learning Strategy Review  
 The first group project
 
