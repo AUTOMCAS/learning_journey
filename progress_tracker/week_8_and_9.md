@@ -19,6 +19,7 @@ Learning Strategy Review
 ### Goal 1: Understand an existing codebase and learn how to work with the unfamiliar technologies used within it.
 **PLAN**
 - Spend time creating diagrams, watching videos, looking at documentation, seeking coach advice and sharing knowledge as a group.
+
 **EVIDENCE**
 - [Diagram to explore the frontend](https://raw.githubusercontent.com/AUTOMCAS/grumbleBook/main/planning/diagrams/frontend-codebase-exploration.png)
 - [Diagram to explore the backend](https://raw.githubusercontent.com/AUTOMCAS/grumbleBook/main/planning/diagrams/backend-codebase-exploration.png)
