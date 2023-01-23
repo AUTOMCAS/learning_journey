@@ -4,7 +4,7 @@
 
 _Disclaimer: This repo follows an ever changing, dynamic journey of self discovery, reflection and progress. I have tried to introduce order to this chaos through organisation and consistency but I have not always succeeded._
 
-I created a number of resources along this journey bincluding a **[concise and sweet summary version](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/methods_for_effective_learning.md)**
+I created a number of resources along this journey bincluding a **[concise and sweet summary version](https://github.com/AUTOMCAS/learning_journey/blob/main/learning_strategies/methods_for_effective_learning.md).**
 
 Before the start of the course I decided that there was no better thing to do than to focus on **learning how to learn**. Coming from a background in Education I had a good idea of how to learn effectively, or so I thought!
 
